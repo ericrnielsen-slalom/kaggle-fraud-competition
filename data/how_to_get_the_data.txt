@@ -1,0 +1,12 @@
+The dataset is too large to store nicely in the Github, 
+so you'll need to download it from a Teams site...
+
+Link:
+https://teams.microsoft.com/_#/files/General?threadId=19%3Aa341738038a241a79a84338e699e80f4%40thread.skype&ctx=channel&context=Enablement%252FKaggle%2520Competition%2520(August%25202019)%252Fdata
+
+Download all files and make sure they're in your data/ directory:
+sample_submission.csv
+test_identity.csv
+test_transaction.csv
+train_identity.csv
+train_transaction.csv
